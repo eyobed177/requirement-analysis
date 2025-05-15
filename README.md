@@ -100,7 +100,7 @@ Use Case Diagrams are visual representations that illustrate the interactions be
 
 Use Case Diagrams are widely used during the requirement analysis phase to ensure all parties have a shared understanding of the system’s behavior and user interactions.
 
-![usecase](alx-booking-uc.png)
+![usecase](alx-booking-uc.PNG)
 
 
 
