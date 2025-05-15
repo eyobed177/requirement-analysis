@@ -42,6 +42,28 @@ By thoroughly understanding the needs of users and stakeholders, developers can 
 
 ---
 
-Would you like to follow up with a section on **“Types of Requirements”** or include some real-world case studies/examples next?
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several critical activities that help ensure the software solution aligns with business needs and user expectations. Below are the five key activities involved in this process:
+
+- **Requirement Gathering**  
+  This is the initial step where information about the desired system is collected from various stakeholders, including clients, end-users, business managers, and developers. It aims to understand the high-level goals and expectations for the project.
+
+- **Requirement Elicitation**  
+  This involves using techniques such as interviews, questionnaires, workshops, brainstorming sessions, and observation to dig deeper into stakeholders' needs. The goal is to uncover explicit and implicit requirements that may not be immediately obvious.
+
+- **Requirement Documentation**  
+  After gathering and eliciting requirements, they must be clearly documented in a structured format—typically in a Software Requirements Specification (SRS) document. This ensures all stakeholders have a reference point and helps guide the development process.
+
+- **Requirement Analysis and Modeling**  
+  During this phase, the documented requirements are analyzed for clarity, completeness, feasibility, and consistency. Techniques such as use case diagrams, data flow diagrams (DFDs), and entity-relationship diagrams (ERDs) may be used to model and visualize requirements.
+
+- **Requirement Validation**  
+  This step ensures that the documented requirements accurately represent what stakeholders want and are technically feasible. Validation is done through reviews, inspections, walkthroughs, or prototyping, and helps catch issues early before development begins.
+
+---
+
+Would you like to include diagrams or tools commonly used for each of these activities next?
+
 
 
