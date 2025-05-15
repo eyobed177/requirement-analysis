@@ -101,6 +101,10 @@ Use Case Diagrams are visual representations that illustrate the interactions be
 Use Case Diagrams are widely used during the requirement analysis phase to ensure all parties have a shared understanding of the system’s behavior and user interactions.
 
 ![usecase](alx-booking-uc.png)
+
+## Acceptance Criteria
+Acceptance criteria are a set of predefined conditions or requirements that a software feature must meet to be accepted by the stakeholders or end-users.
+
 ## Importance of Acceptance Criteria in Requirement Analysis
 
 Acceptance criteria are a set of predefined conditions or requirements that a software feature must meet to be accepted by the stakeholders or end-users. They play a vital role in requirement analysis by providing clear, testable, and agreed-upon standards that define when a feature is complete and working as intended.
