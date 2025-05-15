@@ -87,10 +87,20 @@ Non-functional requirements specify the quality attributes, system performance, 
 - User data must be securely stored and comply with data protection regulations.
 - The system should have a user-friendly interface accessible on both desktop and mobile devices.
 
----
+## Use Case Diagrams
 
-Would you like help expanding this with more examples or adding a section on “Tools and Techniques for Requirement Analysis”?
+Use Case Diagrams are visual representations that illustrate the interactions between users (actors) and the system to achieve specific goals. They depict the functional requirements of a system by showing various use cases—scenarios in which users interact with the system—and the actors involved.
 
+### Benefits of Use Case Diagrams:
+- **Clarify Requirements**: They provide a clear and simple way to understand what the system should do from the user's perspective.
+- **Improve Communication**: Help bridge the gap between technical teams and non-technical stakeholders by presenting requirements visually.
+- **Identify Actors and Roles**: Highlight different user roles and their interactions with the system.
+- **Guide Development and Testing**: Serve as a foundation for system design, development, and test case creation.
+- **Scope Definition**: Help define system boundaries and focus on essential functionalities.
+
+Use Case Diagrams are widely used during the requirement analysis phase to ensure all parties have a shared understanding of the system’s behavior and user interactions.
+
+![usecase](alx-booking-uc.png)
 
 
 
