@@ -61,9 +61,36 @@ Requirement Analysis involves several critical activities that help ensure the s
 - **Requirement Validation**  
   This step ensures that the documented requirements accurately represent what stakeholders want and are technically feasible. Validation is done through reviews, inspections, walkthroughs, or prototyping, and helps catch issues early before development begins.
 
+## Types of Requirements
+
+In software development, requirements are generally classified into **Functional Requirements** and **Non-functional Requirements**. Both types are essential to deliver a successful system.
+
+### Functional Requirements
+
+Functional requirements describe the specific behaviors or functions the system must perform. They define what the system **should do**.
+
+**Examples for a Booking Management Project:**
+- Users must be able to create, update, and cancel bookings.
+- The system should allow users to search available slots based on date and time.
+- Admins can approve or reject booking requests.
+- Notifications must be sent to users upon booking confirmation or cancellation.
+- Users should be able to view their booking history.
+
+### Non-functional Requirements
+
+Non-functional requirements specify the quality attributes, system performance, and constraints that affect how the system operates. They define **how the system should be**.
+
+**Examples for a Booking Management Project:**
+- The system must handle at least 1000 simultaneous users without performance degradation.
+- Booking confirmation notifications should be sent within 5 seconds.
+- The application must be available 99.9% of the time (high availability).
+- User data must be securely stored and comply with data protection regulations.
+- The system should have a user-friendly interface accessible on both desktop and mobile devices.
+
 ---
 
-Would you like to include diagrams or tools commonly used for each of these activities next?
+Would you like help expanding this with more examples or adding a section on “Tools and Techniques for Requirement Analysis”?
+
 
 
 
